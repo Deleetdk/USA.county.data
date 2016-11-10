@@ -8,6 +8,8 @@ To use:
 data(USA_county_data)
 ```
 
+If you don't want to use the package, then an .rds file [is provided](https://github.com/Deleetdk/USA.county.data/tree/master/inst/ext). If you don't want to use R, a .csv file [is provided too](https://github.com/Deleetdk/USA.county.data/tree/master/inst/ext).
+
 Install it from github with:
   
 ```{r}
