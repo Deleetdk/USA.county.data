@@ -1,10 +1,10 @@
 Package: USA.county.data
 Type: Package
-Title: United States (US) county dataset
-Version: 0.1.0
+Title: United States (USA) county dataset with socioeconomic data and election data 2008-2016
+Version: 1.0.0
 Author: Emil O. W. Kirkegaard
 Maintainer: Emil O. W. Kirkegaard <emil@emilkirkegaard.dk>
-Description: This package contains a lot of county-level dat that I've compiled.
+Description: This package contains a lot of county-level data that I've compiled.
     To make it easier for others to use and more portable, it is available in this
     package.
 License: Public domain
